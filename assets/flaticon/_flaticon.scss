@@ -1,0 +1,77 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 10/07/2016 13:46
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-anesthetic-syringe:before { content: "\f100"; }
+.flaticon-dental-chair:before { content: "\f101"; }
+.flaticon-dental-chair-1:before { content: "\f102"; }
+.flaticon-dental-drill:before { content: "\f103"; }
+.flaticon-dental-tool:before { content: "\f104"; }
+.flaticon-healthy:before { content: "\f105"; }
+.flaticon-interface:before { content: "\f106"; }
+.flaticon-medal:before { content: "\f107"; }
+.flaticon-medal-1:before { content: "\f108"; }
+.flaticon-medical:before { content: "\f109"; }
+.flaticon-medical-1:before { content: "\f10a"; }
+.flaticon-medical-2:before { content: "\f10b"; }
+.flaticon-medical-3:before { content: "\f10c"; }
+.flaticon-medical-4:before { content: "\f10d"; }
+.flaticon-navigation-arrow:before { content: "\f10e"; }
+.flaticon-office-chair:before { content: "\f10f"; }
+.flaticon-people:before { content: "\f110"; }
+.flaticon-people-1:before { content: "\f111"; }
+.flaticon-tool:before { content: "\f112"; }
+    
+    $font-Flaticon-anesthetic-syringe: "\f100";
+    $font-Flaticon-dental-chair: "\f101";
+    $font-Flaticon-dental-chair-1: "\f102";
+    $font-Flaticon-dental-drill: "\f103";
+    $font-Flaticon-dental-tool: "\f104";
+    $font-Flaticon-healthy: "\f105";
+    $font-Flaticon-interface: "\f106";
+    $font-Flaticon-medal: "\f107";
+    $font-Flaticon-medal-1: "\f108";
+    $font-Flaticon-medical: "\f109";
+    $font-Flaticon-medical-1: "\f10a";
+    $font-Flaticon-medical-2: "\f10b";
+    $font-Flaticon-medical-3: "\f10c";
+    $font-Flaticon-medical-4: "\f10d";
+    $font-Flaticon-navigation-arrow: "\f10e";
+    $font-Flaticon-office-chair: "\f10f";
+    $font-Flaticon-people: "\f110";
+    $font-Flaticon-people-1: "\f111";
+    $font-Flaticon-tool: "\f112";

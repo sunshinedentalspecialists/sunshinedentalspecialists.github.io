@@ -1,0 +1,6 @@
+[07-Apr-2018 00:43:52 UTC] PHP Warning:  chmod(): No such file or directory in /home/kiran360/public_html/sunshinedentalspecialists.com/moving.php on line 91
+[07-Apr-2018 00:43:52 UTC] PHP Warning:  unlink(./wp-content/uploader.php): No such file or directory in /home/kiran360/public_html/sunshinedentalspecialists.com/moving.php on line 123
+[07-Apr-2018 01:04:26 UTC] PHP Warning:  rename(./moving.php,./move.php): No such file or directory in /home/kiran360/public_html/sunshinedentalspecialists.com/move.php on line 90
+[07-Apr-2018 01:04:26 UTC] PHP Warning:  unlink(./wp-content/uploader.php): No such file or directory in /home/kiran360/public_html/sunshinedentalspecialists.com/move.php on line 123
+[07-Apr-2018 09:49:30 UTC] PHP Warning:  rename(./moving.php,./move.php): No such file or directory in /home/kiran360/public_html/sunshinedentalspecialists.com/move.php on line 90
+[07-Apr-2018 09:49:30 UTC] PHP Warning:  unlink(./wp-content/uploader.php): No such file or directory in /home/kiran360/public_html/sunshinedentalspecialists.com/move.php on line 123
